@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Space debris: 'Grandfather satellite' due to fall to Earth - BBC.com",
+            "description": "Europe's pioneering ERS-2 Earth observation spacecraft will make an uncontrolled dive to destruction.",
+            "url": "https://www.bbc.com/news/science-environment-68318273",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9CA0/production/_132669004_ers-2_in_orbit.jpg",
+            "publishedAt": "2024-02-21T00:37:07Z",
+            "content": "Artwork: Europe's Earth Remote Sensing satellites weighed about 2.5 tonnes at launch\r\nA pioneering European satellite is due to fall to Earth in the coming hours.\r\nERS-2 was a cutting-edge observatio… [+4985 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JAMIE STENGLE",
+            "title": "Texas authorities say they've found body of Audrii Cunningham - The Associated Press",
+            "description": "Divers have recovered the body of an 11-year-old girl from a Texas river days after she went missing, and authorities say they are preparing to file a murder charge against a friend of the girl's father. Sheriff Byron Lyons in Polk County, Texas, said Tuesday…",
+            "url": "https://apnews.com/article/missing-girl-texas-school-bus-e4a37d5077fc1ddb3cd27f6dcaadda88",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f707672/2147483647/strip/true/crop/4774x2685+0+249/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Fcd%2Fcd69a8b714c921014f0c9eb6b54a%2Fc9ea28678bc645289d5708d7cfb7c44b",
+            "publishedAt": "2024-02-20T23:53:51Z",
+            "content": "Divers have recovered the body of 11-year-old Audrii Cunningham from a Texas river days after the girl went missing, and authorities are preparing to file a murder charge against a friend of her fath… [+2223 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Stocks close lower as Nvidia weighs ahead of earnings - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/us/futures-slip-fading-rate-cut-hopes-retailers-earnings-focus-2024-02-20/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-20T23:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY",
+            "title": "American admits to attacking 2 US women in Germany, killing 1 of them - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/news/world/2024/02/20/americans-germany-neuschwanstein-attack-women/72674831007/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-20T23:10:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Nardos Haile",
+            "title": "Four-part Beatles biopic on Paul McCartney, John Lennon, George Harrison and Ringo Starr announced - Salon",
+            "description": "Four-part Beatles biopic on Paul McCartney, John Lennon, George Harrison and Ringo Starr announced.",
+            "url": "https://www.salon.com/2024/02/20/beatles-biopics/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/02/the_beatles_519726116.jpg",
+            "publishedAt": "2024-02-20T23:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Katrina Manson and Redd Brown",
+            "title": "Palo Alto Networks Plunges After Cutting Revenue Forecast - Yahoo Finance",
+            "description": "(Bloomberg) -- Cybersecurity company Palo Alto Networks Inc. tumbled in late trading after cutting its revenue forecast for the year, sparking concerns that ...",
+            "url": "https://finance.yahoo.com/news/palo-alto-networks-plunges-giving-211641156.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.voMiMFdV7i45bXoFblciA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/1e4047106e76285a7ff2cab7de4a7f3b",
+            "publishedAt": "2024-02-20T22:46:04Z",
+            "content": "(Bloomberg) -- Cybersecurity company Palo Alto Networks Inc. tumbled in late trading after cutting its revenue forecast for the year, sparking concerns that customers are reining in tech spending.\r\nM… [+2888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "US blocks ceasefire call with third UN veto in Israel-Hamas war - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/us-casts-third-veto-un-action-since-start-israel-hamas-war-2024-02-20/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-20T22:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "US to impose 'major sanctions' on Russia over Navalny death - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/us-announce-major-sanctions-package-friday-over-navalny-death-2024-02-20/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-20T22:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Victoria Butenko, Al Goodman",
+            "title": "Russian pilot who defected to Ukraine is dead: Ukraine’s Defense Intelligence - CNN",
+            "description": "A Russian pilot who dramatically defected to Ukraine by flying his helicopter across the border is dead, according to Ukraine’s Defense Intelligence Directorate.",
+            "url": "https://www.cnn.com/2024/02/20/europe/russian-pilot-defected-ukraine-dead-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230904152421-ukraine-russia-defector-helicopter.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-20T22:03:00Z",
+            "content": "Maxim Kuzminov, a Russian pilot who dramatically defected to Ukraine by flying his helicopter across the border, is dead, according to Ukraines Defense Intelligence Directorate (GUR).\r\nThe news comes… [+3634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Angie Han",
+            "title": "‘Constellation’ Review: Noomi Rapace in an Apple TV+ Sci-Fi Mystery That Starts With a Bang, Ends With a Whimper - Hollywood Reporter",
+            "description": "The series centers on an astronaut who survives a space-station accident, only to discover upon her return to Earth that her life is not as she remembered it.",
+            "url": "http://www.hollywoodreporter.com/tv/tv-reviews/constellation-review-noomi-rapace-1235824354/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/Constellation_Photo_010301-H-2024.jpg?w=1024",
+            "publishedAt": "2024-02-20T21:13:35Z",
+            "content": "One of the very first sounds of Apple TV+’s Constellation is a woman’s terrified voice on a cassette tape, insisting in Russian that “the world is the wrong way around.” As statements go, it’s comple… [+5620 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
+            },
+            "author": null,
+            "title": "SpaceX launches Indonesian satellite on a Falcon 9 rocket from Cape Canaveral – Spaceflight Now - Spaceflight Now",
+            "description": "The launch of Telkomsat’s Merah Putih 2 satellite came more than five years after the company’s last launch aboard a SpaceX rocket. Liftoff occurred at the opening of a two-hour window at 3:11 p.m",
+            "url": "https://spaceflightnow.com/2024/02/20/live-coverage-spacex-falcon-9-rocket-to-launch-indonesian-communications-satellite-from-cape-canaveral/",
+            "urlToImage": "https://spaceflightnow.com/wp-content/uploads/2024/02/20240220_SpaceX_MP2_Liftoff3_AB-1.jpg",
+            "publishedAt": "2024-02-20T21:11:15Z",
+            "content": "A Falcon 9 rocket supporting the Telkomsat Merah Putih 2 mission launches from Space Launch Complex 40 at Cape Canaveral Space Force Station on Feb. 20, 2024. Image: Adam Bernstein/Spaceflight Now\r\nI… [+2927 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JILL LAWLESS",
+            "title": "Julian Assange: Final UK legal challenge to stop WikiLeaks' founder's US extradition - The Associated Press",
+            "description": "Julian Assange’s lawyers have begun their final U.K. legal challenge to stop the WikiLeaks founder from being sent to the United States to face spying charges. They argued in London's High Court on Tuesday that his actions had exposed serious criminal actions…",
+            "url": "https://apnews.com/article/wikileaks-assange-extradition-appeal-hearing-48e6786241f35064833e40060a90279a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dd09080/2147483647/strip/true/crop/7159x4027+0+373/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2F55%2F34646178a4fcdc875c42ea5d44c5%2F47a9862a31524ce682d0fe60cc9f4572",
+            "publishedAt": "2024-02-20T20:59:00Z",
+            "content": "LONDON (AP) Julian Assanges lawyers opened a final U.K. legal challenge Tuesday to stop the WikiLeaks founder from being sent to the United States to face spying charges, arguing that American author… [+6479 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Chris Boccia, Luis Martinez",
+            "title": "Houthis shoot down US MQ-9 Reaper drone flying near Yemen - ABC News",
+            "description": "It's the second American drone downed by the Iran-backed militants.",
+            "url": "https://abcnews.go.com/Politics/houthis-shoot-us-mq-9-reaper-drone-flying/story?id=107373859",
+            "urlToImage": "https://i.abcnewsfe.com/a/3466bd36-8c10-4b34-9537-1aa3c3396b98/drone-rt-er-240220_1708450422175_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-20T20:56:33Z",
+            "content": "An American MQ-9 Reaper flying near Yemen has been shot down by Houthi militants, a U.S. official confirmed to ABC News and the Pentagon later said on Tuesday.\r\nThe Houthis said they had targeted the… [+1568 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Walmart buying TV-brand Vizio for its ad-fueling customer data - Ars Technica",
+            "description": "Deal expected to close as soon as this summer.",
+            "url": "https://arstechnica.com/gadgets/2024/02/walmart-buying-tv-brand-vizio-for-its-ad-fueling-customer-data/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-2008670650-760x380.jpg",
+            "publishedAt": "2024-02-20T20:44:31Z",
+            "content": "38\r\nWalmart announced an agreement to buy Vizio today. Irvine, California-based Vizio is best known for lower-priced TVs, but its real value to Walmart is its advertising business and access to user … [+4849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Vlad",
+            "title": "Samsung Galaxy Ring to launch at the next Unpacked event in late July - GSMArena.com news - GSMArena.com",
+            "description": "Expect to see it unveiled alongside the Galaxy Z Fold6 and Galaxy Z Flip6. At its Unpacked event in January when it made the Galaxy S24, S24+, and S24...",
+            "url": "https://www.gsmarena.com/samsung_galaxy_ring_to_launch_at_the_next_unpacked_event_in_late_july-news-61677.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/02/galaxy-ring-july/-952x498w6/gsmarena_000.jpg",
+            "publishedAt": "2024-02-20T20:23:01Z",
+            "content": "At its Unpacked event in January when it made the Galaxy S24, S24+, and S24 Ultra official, Samsung also quickly teased the upcoming Galaxy Ring wearable. Since then, there has been a lot of speculat… [+1070 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Cole Premo, Ubah Ali",
+            "title": "Procession for Burnsville officers Paul Elmstrand and Matthew Ruge held Tuesday - CBS Minnesota",
+            "description": "A procession for fallen Burnsville police officers Paul Elmstrand and Matthew Ruge is underway Tuesday afternoon.",
+            "url": "https://www.cbsnews.com/minnesota/news/watch-live-procession-for-burnsville-officers-paul-elmstrand-and-matthew-ruge/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/20/11ebc3f7-2ce0-4aba-a1f2-3620d552ce48/thumbnail/1200x630/d6d2ae858698ac1017645ca823226d44/inx-aerials-officers-procession-022024.jpg?v=2a01790210e495d24a119503c08f840d",
+            "publishedAt": "2024-02-20T20:19:00Z",
+            "content": "MINNETONKA, Minn. — For the second day in a row, hundreds of people stopped what they were doing to give a solemn salute.\r\nFrom Minnetonka to Jordan, people paused as the hearse carrying slain Burnsv… [+1350 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Shohei Ohtani's spring training home runs offer just the latest reminder of his otherworldly abilities: 'He's a unicorn' - Yahoo Sports",
+            "description": null,
+            "url": "https://sports.yahoo.com/shohei-ohtanis-spring-training-home-runs-offer-just-the-latest-reminder-of-his-otherworldly-abilities-hes-a-unicorn-201024124.html",
+            "urlToImage": null,
+            "publishedAt": "2024-02-20T20:11:57Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "How Pac-2 moves forward after leverage play as College Football Playoff updates 12-team expansion model - CBS Sports",
+            "description": "The new 5+7 model doesn't bar what's left of the Pac-12 from the playoff, but it does create a very difficult road",
+            "url": "https://www.cbssports.com/college-football/news/how-pac-2-moves-forward-after-leverage-play-as-college-football-playoff-updates-12-team-expansion-model/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/12/15/2d1fbc14-8884-4337-ae5e-c768b5f48f04/thumbnail/1200x675/1a4ba2b2e98c1926a7e8fbf7f26a5d7d/pac-12-logo.jpg",
+            "publishedAt": "2024-02-20T19:50:00Z",
+            "content": "College Football Playoff leaders agreed to a 5+7 model for the expanded 12-team playoff format on Tuesday, signaling a major change in the postseason landscape with the 2024 season just over six mont… [+4341 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Signal now lets you keep your phone number private with the launch of usernames - TechCrunch",
+            "description": "End-to-end encrypted messaging app Signal is finally launching usernames, the company announced on Tuesday.",
+            "url": "https://techcrunch.com/2024/02/20/signal-now-lets-you-keep-your-phone-number-private-with-the-launch-of-usernames/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/signal-usernames.jpg?resize=1200,609",
+            "publishedAt": "2024-02-20T19:09:58Z",
+            "content": "Signal is launching usernames, the company announced today. Up until now, you have had to give someone your phone number to chat with them on Signal. Now you can create a unique username that you can… [+3043 chars]"
+        }
+    ]
+}
